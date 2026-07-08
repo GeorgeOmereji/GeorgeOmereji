@@ -15,7 +15,7 @@ I enjoy building practical cybersecurity projects that demonstarte real-world sk
 ## Projects
 | Project | Description | Repository |
 | ------- | ----------- | ---------- |
-| OSINT Investigation | Conducted an OSINT Investigation on a target organization | www.github.com/GeorgeOmereji |
+| OSINT Investigation | Conducted an OSINT Investigation on a target organization | (https://github.com/GeorgeOmereji/OSINT-Project) |
 | Log Analysis | Analysed IIS ans Windows Event Logs to identify attacks | Coming Soon |
 
 ## Skills 
