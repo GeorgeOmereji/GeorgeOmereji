@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm George Omereji
 
-<!--
-**GeorgeOmereji/GeorgeOmereji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Cybersecurity student at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
+I enjoy building practical cybersecurity projects that demonstarte real-world skill in:
+- Penetration Testing
+- Log Analysis
+- Malware Analysis
+- Digital Forensics
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Governance Risk and Compliance
 
-Here are some ideas to get you started:
+## Projects
+| Project | Description | Repository |
+| ------- | ----------- | ---------- |
+| OSINT Investigation | Conducted an OSINT Investigation on a target organization | Coming Soon |
+| Log Analysis | Analysed IIS ans Windows Event Logs to identify attacks | Coming Soon |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 
+### Operating Systems
+- Windows
+- Linux
+
+### Networkimg
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
+- TELNET
+
+### Cybersecurity Tools
+- Nmap
+- Wireshark
+- BurpSuite
+- Splunk
+- Snort
+- Suricata
+- ELK
+- Git
+- GitHub
+
+## Certification
+- ISC2 CC (In Progress)
+- CompTIA Security+ (In Progress)
+
+## Education
+- NIIT Port Harcourt: Cybersecurity Program
+
+## Contact 
+- Email: georgeomereji28@gmail.com
+- LinkedIn: 
